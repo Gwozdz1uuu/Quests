@@ -1,0 +1,8 @@
+[
+  {"questType":  "KILL", "spec": "ZOMBIE", "requiredAmount": 3},
+  {"questType":  "KILL","spec": "SPIDER", "requiredAmount": 4},
+  {"questType":  "KILL", "spec": "SKELETON","requiredAmount": 6},
+  {"questType":  "COLLECT", "spec": "WHEAT","requiredAmount": 2},
+  {"questType":  "COLLECT", "spec": "IRON","requiredAmount": 16},
+  {"questType":  "COLLECT", "spec": "DIAMOND","requiredAmount": 64}
+]

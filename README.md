@@ -10,5 +10,5 @@ There are 3 variants of each of them. Collectables: Wheat, Diamonds, Iron. Killa
 
 How it works:
 At the beginning we choose a player (that are hard coded, but QUESTS are NOT).
-![alt text](https://github.com/Gwozdz1uuu/Quests/blob/main/img.png?raw=true)
+![alt text](https://github.com/Gwozdz1uuu/Quests/src/main/resources/screenShots/img.png)
 we choose an action
